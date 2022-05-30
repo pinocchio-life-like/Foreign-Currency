@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    width: 100%;
+    background-image: url(./ImageFile/Scroll\ Group\ 1.png);
+    background-size: 100% 100%;
+}
+
+.container {
+    background-image: url(./ImageFile/bg.jpg);
+}
